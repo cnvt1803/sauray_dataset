@@ -1,0 +1,7 @@
+# File: insect.yaml
+
+train: /content/drive/MyDrive/dataYolo/images/train
+val: /content/drive/MyDrive/dataYolo/images/val
+
+nc: 4
+names: ['bo_den', 'bo_den_nho', 'bo_den_thon_dai', 'nhang']
